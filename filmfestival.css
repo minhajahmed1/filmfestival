@@ -1,0 +1,107 @@
+body{
+	background-image: url(dark.jpg);
+	background-size: cover;
+	background-position: center;
+	color: white;
+
+ }	
+#content {
+	text-align: center;
+	padding-top: 5%;
+
+ }
+hr{
+	border-color: white ;
+	width: 450px
+ }
+h1{
+	font-weight: 700;
+	font-size: 4em;
+	font color: 
+
+ }
+
+h2{
+  font-weight: 400;
+}
+html{
+	height: 100%;
+}
+.footers{ background-color: black;
+	      color: white;
+	      margin-top: 20%;
+}
+
+.social-media{
+	display: flex;
+	text-align: center;
+	float: right;
+	
+
+
+	
+}
+.social-media li{
+	margin:10px;
+	list-style: none;
+	font-size: 30px;
+
+}
+li p{
+	font-size: 15px;
+	margin-top: 10px
+
+}
+.information-body{
+	background:none;
+	color: black;
+}
+.register-body{
+	background: none;
+	color: black;
+
+}
+form{
+	margin-left: 5px;
+}
+h3{
+	margin-left: 30px;
+	margin-bottom: 30px;
+}
+.hr-information{
+	border-color: black;
+	margin-top: -20px;
+}
+
+.h3-information{
+	text-align: center;
+
+}
+
+.information-h1{
+	text-align: center;
+	font-family: cursive;
+}
+
+.checkbox{
+	margin-left: 2%;
+}
+
+.button-register{
+	margin-left: 2%;
+	margin-bottom: 2%;
+	margin-top: 1%;
+}
+.div-1{
+	margin-right: 50px;
+}
+.div-2{
+	margin-right: 28px;
+}
+.div-3{
+	margin-right: 22px;
+}
+
+.div-4{
+	margin-right: 10px;
+}
